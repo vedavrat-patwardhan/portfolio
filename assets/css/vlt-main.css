@@ -464,7 +464,7 @@
 }
 @media only screen and (max-width: 1199px) {
   .vlt-gap-100--lg {
-    height: 6.25rem;
+    height: 6.25rem !important;
   }
 }
 
@@ -1738,7 +1738,7 @@ select:focus::-webkit-input-placeholder {
 }
 
 [data-anchor="Contact"] p {
-  font-size: 0.9375rem;
+  font-size: 1.125rem;
 
   color: rgba(255, 255, 255, 0.6);
 }
@@ -1752,7 +1752,7 @@ select:focus::-webkit-input-placeholder {
 }
 
 [data-anchor="Contact"] .email {
-  font-size: 0.9375rem;
+  font-size: 1.125rem;
 
   color: rgba(255, 255, 255, 0.6);
 }
@@ -2091,7 +2091,7 @@ select:focus::-webkit-input-placeholder {
 }
 
 .vlt-project-excerpt {
-  font-size: 0.9375rem;
+  font-size: 1.125rem;
 
   max-width: 24.375rem;
   margin-top: 2.5rem;
